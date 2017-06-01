@@ -1,0 +1,289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ldap_con",
+				"ladp_con"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"ti",
+				"title	<title>"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"styl",
+				"style	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTML: Wrap Selection With Tag"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/materialize/materialize.min.js",
+		"/C/xampp/htdocs/materialize/materialize.min.css",
+		"/C/xampp/htdocs/battistella/views/login.php",
+		"/C/xampp/htdocs/battistella/models/Documentos.php",
+		"/C/xampp/htdocs/battistella/models/Login.php",
+		"/C/xampp/htdocs/battistella/controllers/documentosController.php",
+		"/C/xampp/htdocs/battistella/controllers/homeController.php",
+		"/C/xampp/htdocs/battistella/controllers/loginController.php",
+		"/C/xampp/htdocs/battistella/environment.php",
+		"/C/xampp/htdocs/battistella/config.php",
+		"/C/xampp/htdocs/battistella/views/template.php",
+		"/C/xampp/htdocs/battistella/views/indexTemplate.php",
+		"/C/xampp/htdocs/battistella/assets/js/script.js",
+		"/C/xampp/htdocs/battistella/views/documentos.php",
+		"/C/xampp/htdocs/battistella/views/home.php",
+		"/C/xampp/htdocs/battistella/assets/css/style.css",
+		"/C/xampp/htdocs/battistella/assets/css/estilo.css",
+		"/C/xampp/htdocs/battistella/assets/css/index.css",
+		"/C/xampp/htdocs/battistella/views/admin.php",
+		"/C/xampp/htdocs/battistella/controllers/adminController.php",
+		"/C/xampp/htdocs/battistella/core/Core.php",
+		"/C/xampp/htdocs/battistella/index.php",
+		"/C/xampp/htdocs/battistella/core/Controller.php",
+		"/C/xampp/htdocs/battistella/ESTRUTURA",
+		"/C/xampp/htdocs/battistella/.htaccess",
+		"/C/xampp/htdocs/battistella/core/Model.php",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Temporario/index.html",
+		"/C/xampp/htdocs/battistella/_htaccess",
+		"/C/xampp/htdocs/battistella/documentos.php",
+		"/C/Users/gerson.arbrugaus/Documents/Pessoal/Site/index.html",
+		"/C/xampp/htdocs/battistellaVP/index.php",
+		"/C/xampp/htdocs/battistellaVP/includes/define.inc.php",
+		"/C/xampp/htdocs/battistellaVP/views/public/includes/rodapeVP.inc.php",
+		"/C/xampp/htdocs/battistellaVP/includes/includes.inc.php",
+		"/C/xampp/htdocs/battistellaVP/views/public/includes/topVP.inc.php",
+		"/C/xampp/htdocs/battistellaVP/DAOs/AdminDAO.class.php",
+		"/C/xampp/htdocs/battistellaVP/BOs/AdminBO.class.php",
+		"/C/xampp/htdocs/battistellaVP/DAOs/ContactDAO.class.php",
+		"/C/xampp/htdocs/battistellaVP/DAOs/DAO.class.php",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/application/config/index.html",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/application/controllers/admin/C_Menu.php",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/application/controllers/Site.php",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/application/models/Box.php",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/application/models/Home.php",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/application/session/ci_session00b2758230212eeaafde1c51b3f5d9e86d03bd9f",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/application/session/ci_session7089db5c8e828675eec326d3e3a90f7f42077708",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/application/models/Menu.php",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/application/config/database.php",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/application/models/Template_1.php",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/application/core/index.html",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/index.php",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/installer/install.php",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/installer/core.php",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/application/controllers/Login.php",
+		"/C/Users/gerson.arbrugaus/Documents/Site/Pacote Scania - Site Concessionárias/Pacote de Instalação - Site Casas Scania/installer/database.php",
+		"/C/xampp/htdocs/meucontrole/class/ValidaSenha.class.php",
+		"/C/xampp/htdocs/meucontrole/painel.php",
+		"/C/xampp/htdocs/meucontrole/index.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\battistellaVP"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pick",
+			"pickadate",
+			"COMPANY_ADDRESS",
+			"COMPANY_TEL",
+			"h5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
